@@ -1,0 +1,182 @@
+[
+  {
+    "name": "DABnity:- Social media",
+    "desc": "Full-Stack social media site built using MERN stack and realtime chat with the help of socket.iO with getstream and twilio chat APIs",
+    "image": "Dabnity",
+    "category": "mern",
+    "links": {
+      "view": "https://dabnity.netlify.app/",
+      "code": "https://github.com/Ashutosh102/DABnity_far_beyond_infinity"
+    }
+  },
+  {
+    "name": "NextJS-Ecommerce",
+    "desc": "Full-Stack NextJS shopping site with Payment Gateway using BigCommerce database. MERN Stack WebApp, ready to use for business.",
+    "image": "Ecommerce",
+    "category": "mern",
+    "links": {
+      "view": "https://commerce-rho-roan.vercel.app/",
+      "code": "https://github.com/Ashutosh102/ecommerce"
+    }
+  },
+  {
+    "name": "DevKrypt",
+    "desc": "A web3.0 blockchain application which will allow you to send cryptos from one wallet to another",
+    "image": "DevKrypt",
+    "category": "Webthree",
+    "links": {
+      "view": "https://dev-kryptonite.netlify.app/",
+      "code": "https://github.com/Ashutosh102/Dev-krypt_Web3.0"
+    }
+  },
+  {
+    "name": "DevCord_chat app",
+    "desc": "A look a like clone of discord!! a messenger app with virtual rooms made with node JS and socket.io",
+    "image": "DevCord",
+    "category": "mern",
+    "links": {
+      "view": "https://devchat-v3.herokuapp.com/",
+      "code": "https://github.com/Ashutosh102/DevCord-ChatApp"
+    }
+  },
+  {
+    "name": "DevEditor",
+    "desc": "Full-Stack photo editor Using LAMP Stack. With all major features and reliability",
+    "image": "Devps",
+    "category": "full-stack",
+    "links": {
+      "view": "https://dev-editor-online-editor-using-php.vercel.app/",
+      "code": "https://github.com/Ashutosh102/DevEditor-online_editor_using_PHP"
+    }
+  },
+  {
+    "name": "Web PlayGround",
+    "desc": "This website is to write code in HTML, CSS and JS and can test these....an online IDE",
+    "image": "playground",
+    "category": "Web",
+    "links": {
+      "view": "https://web-playground-in-js.vercel.app/",
+      "code": "https://github.com/Ashutosh102/Web_playground_in_JS"
+    }
+  },
+  {
+    "name": "DevCall",
+    "desc": "video call web app using node JS , Socket.io , React and WebRTC API.",
+    "image": "Devcall",
+    "category": "mern",
+    "links": {
+      "view": "http://devcall.vercel.app/",
+      "code": "https://github.com/Ashutosh102/build-version_of_DevCall_web_app"
+    }
+  },
+  {
+    "name": "Covid Dashboard",
+    "desc": "Covid Dashboard built using ReactJS and node JS. Supports dark mode. API used for covid info.",
+    "image": "covid",
+    "category": "API",
+    "links": {
+      "view": "https://covid-dashboard-pro.herokuapp.com/",
+      "code": "https://github.com/Ashutosh102/Covid_Dashboard"
+    }
+  },
+  {
+    "name": "Digital Resume",
+    "desc": "Digital resume using HTML, CSS and JS",
+    "image": "resume",
+    "category": "Web",
+    "links": {
+      "view": "https://my-cool-digital-resume.vercel.app/",
+      "code": "https://github.com/Ashutosh102/My_cool_digital_resume"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "folio",
+    "category": "Web",
+    "links": {
+      "view": "https://dev-ashu-portfolio.vercel.app/",
+      "code": "https://github.com/Ashutosh102/My_portfolio"
+    }
+  },
+  {
+    "name": "React-firebase insta clone",
+    "desc": "My first React+Firebase social media📱 clone.",
+    "image": "insta",
+    "category": "react",
+    "links": {
+      "view": "https://firo-react-instagram.vercel.app/",
+      "code": "https://github.com/Ashutosh102/React-firebase-insta-clone"
+    }
+  },
+  {
+    "name": "DABverse",
+    "desc": "A new meet web app for developers🤘✨",
+    "image": "Dabverse",
+    "category": "mern",
+    "links": {
+      "view": "https://dabverse.vercel.app/",
+      "code": "https://github.com/Ashutosh102/DABverse"
+    }
+  },
+  {
+    "name": "OmniDev-search engine",
+    "desc": "A search engine website using google's API.",
+    "image": "omnidev",
+    "category": "react",
+    "links": {
+      "view": "https://omnidev-by-devashu.netlify.app/",
+      "code": "https://github.com/Ashutosh102/OmniDev-Search_Engine"
+    }
+  },
+  {
+    "name": "Utube",
+    "desc": "Youtube clone with react and google cloud youtube API😊🤘",
+    "image": "U-tube",
+    "category": "react",
+    "links": {
+      "view": "https://u-tube-pro.netlify.app/",
+      "code": "https://github.com/Ashutosh102/U-tube_video-streamer"
+    }
+  },
+  {
+    "name": "DevTech",
+    "desc": "A modern UI/UX site with react😎😊✨",
+    "image": "devtech",
+    "category": "reactUI",
+    "links": {
+      "view": "https://modern-ui-ux-with-react.vercel.app/",
+      "code": "https://github.com/Ashutosh102/Modern_UI-UX_with_react"
+    }
+  },
+  {
+    "name": "Advice_Gen",
+    "desc": "Cool advice generator using API",
+    "image": "advice-gen",
+    "category": "API",
+    "links": {
+      "view": "http://advice-gen-2-0.vercel.app/",
+      "code": "https://github.com/Ashutosh102/Advice_Gen_2.0"
+    }
+  },
+  {
+    "name": "DevGitFinder",
+    "desc": "GitHub ID finder challenge app for front-end mentor",
+    "image": "github",
+    "category": "API",
+    "links": {
+      "view": "https://dev-git-finder.vercel.app/",
+      "code": "https://github.com/Ashutosh102/DevGitFinder"
+    }
+  },
+  {
+    "name": "DevTrack",
+    "desc": "IP address tracker using API✌️✌️",
+    "image": "iptrack",
+    "category": "API",
+    "links": {
+      "view": "http://dev-track-ip.vercel.app/",
+      "code": "https://github.com/Ashutosh102/DevTrack_IP"
+    }
+  }
+]
